@@ -1,0 +1,13 @@
+C:\Users\mateusz.wenta\source\repos\SimpleStack\SimpleStack.StrorageApp\obj\Debug\netcoreapp3.1\SimpleStack.StrorageApp.csprojAssemblyReference.cache
+C:\Users\mateusz.wenta\source\repos\SimpleStack\SimpleStack.StrorageApp\obj\Debug\netcoreapp3.1\SimpleStack.StrorageApp.AssemblyInfoInputs.cache
+C:\Users\mateusz.wenta\source\repos\SimpleStack\SimpleStack.StrorageApp\obj\Debug\netcoreapp3.1\SimpleStack.StrorageApp.AssemblyInfo.cs
+C:\Users\mateusz.wenta\source\repos\SimpleStack\SimpleStack.StrorageApp\bin\Debug\netcoreapp3.1\SimpleStack.StrorageApp.exe
+C:\Users\mateusz.wenta\source\repos\SimpleStack\SimpleStack.StrorageApp\bin\Debug\netcoreapp3.1\SimpleStack.StrorageApp.deps.json
+C:\Users\mateusz.wenta\source\repos\SimpleStack\SimpleStack.StrorageApp\bin\Debug\netcoreapp3.1\SimpleStack.StrorageApp.runtimeconfig.json
+C:\Users\mateusz.wenta\source\repos\SimpleStack\SimpleStack.StrorageApp\bin\Debug\netcoreapp3.1\SimpleStack.StrorageApp.runtimeconfig.dev.json
+C:\Users\mateusz.wenta\source\repos\SimpleStack\SimpleStack.StrorageApp\bin\Debug\netcoreapp3.1\SimpleStack.StrorageApp.dll
+C:\Users\mateusz.wenta\source\repos\SimpleStack\SimpleStack.StrorageApp\bin\Debug\netcoreapp3.1\SimpleStack.StrorageApp.pdb
+C:\Users\mateusz.wenta\source\repos\SimpleStack\SimpleStack.StrorageApp\obj\Debug\netcoreapp3.1\SimpleStack.StrorageApp.dll
+C:\Users\mateusz.wenta\source\repos\SimpleStack\SimpleStack.StrorageApp\obj\Debug\netcoreapp3.1\SimpleStack.StrorageApp.pdb
+C:\Users\mateusz.wenta\source\repos\SimpleStack\SimpleStack.StrorageApp\obj\Debug\netcoreapp3.1\SimpleStack.StrorageApp.genruntimeconfig.cache
+C:\Users\mateusz.wenta\source\repos\SimpleStack\SimpleStack.StrorageApp\obj\Debug\netcoreapp3.1\SimpleStack.StrorageApp.csproj.CoreCompileInputs.cache
